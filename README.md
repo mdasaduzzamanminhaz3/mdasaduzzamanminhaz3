@@ -2,7 +2,7 @@
 ### Hi there 👋, I'm Md Asaduzzaman Minhaz
 #### Python /Django Developer
 
-Hi there! I'm Md Asaduzzaman Minhaz, a curious and motivated Computer Science student who loves learning new things and exploring the world of technology.
+I'm Md Asaduzzaman Minhaz, a curious and motivated Computer Science student who loves learning new things and exploring the world of technology.
 
 🎓 Currently:
 🎓 Studying Computer Science & Engineering (CSE)

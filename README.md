@@ -1,4 +1,4 @@
-![Python /Django Developer](https://scontent.fdac5-1.fna.fbcdn.net/v/t39.30808-1/430061926_968113904742027_1002616212307420964_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=1d2534&_nc_eui2=AeF6wcicIkC3URdPi9LsVCgCOeTep6vE8_I55N6nq8Tz8oJDjMpNkswj29JCYpNH2M74A_GwjCXsfavQpZkNoIdl&_nc_ohc=usB73CSMNWEQ7kNvwHgy3ms&_nc_oc=AdlzlOPfQWLoYzc0-xJDJxQcDVfqnHtj1Qq0FC_J8hwCCxz0XB9VfSni-J1bID5HHnQ&_nc_zt=24&_nc_ht=scontent.fdac5-1.fna&_nc_gid=4njZliMvG8nbIZsp7QLhAw&oh=00_AfNmc6BEcmHJ5fkwiNUFkyjijIKQIF3Bp6SA2AiK27_aBQ&oe=684C510E)
+
 ### Hi there 👋, I'm Md Asaduzzaman Minhaz
 #### Python /Django Developer
 

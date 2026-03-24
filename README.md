@@ -1,5 +1,4 @@
 
-### , I'm Md Asaduzzaman Minhaz
 #### Python /Django Developer
 
 I'm Md Asaduzzaman Minhaz, a curious and motivated Computer Science student who loves learning new things and exploring the world of technology.

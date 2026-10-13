@@ -80,7 +80,7 @@ An e-commerce REST API project featuring product, category, cart, and order mana
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdasaduzzamanminhaz3)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/asaduzzaman.minhaz.7)
-[![LinkedIn](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=linkedink&logoColor=white)](https://www.linkedin.com/in/asaduzzaman-minhaz/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1877F2?style=for-the-badge&logo=linkedink&logoColor=white)](https://www.linkedin.com/in/asaduzzaman-minhaz/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdasaduzzamanminhaz3@gmail.com)
 
 ---

@@ -9,18 +9,18 @@ I'm a Computer Science & Technology student from Bangladesh passionate about bac
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-- 🔭 Building and improving projects using Python, Django, and Django REST Framework.
-- 🌱 Strengthening my knowledge of Python OOP, database optimization, and Data Structures & Algorithms.
-- 💻 Exploring modern web technologies, including React and Next.js.
-- ♻️ Working on **Eco-Track**, a waste management and recycling platform.
-- 📰 Developing **NewsIque**, an online newspaper and subscription platform.
-- 🎯 My goal is to become a skilled software engineer and contribute to meaningful software projects.
+-  Building and improving projects using Python, Django, and Django REST Framework.
+-  Strengthening my knowledge of Python OOP, database optimization, and Data Structures & Algorithms.
+-  Exploring modern web technologies, including React and Next.js.
+-  Working on **Eco-Track**, a waste management and recycling platform.
+-  Developing **NewsIque**, an online newspaper and subscription platform.
+-  My goal is to become a skilled software engineer and contribute to meaningful software projects.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Languages
 [![Languages](https://skillicons.dev/icons?i=python,cpp,js,html,css)](https://skillicons.dev)
@@ -36,7 +36,7 @@ I'm a Computer Science & Technology student from Bangladesh passionate about bac
 
 ---
 
-## 🌟 Featured Projects
+##  Featured Projects
 
 ### ♻️ Eco-Track
 An eco-friendly waste management platform that promotes recycling through pickup requests, recycler verification, green rewards, and environmental impact tracking.
@@ -60,21 +60,6 @@ An e-commerce REST API project featuring product, category, cart, and order mana
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdasaduzzamanminhaz3&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mdasaduzzamanminhaz3&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdasaduzzamanminhaz3&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-</p>
-
----
 
 ## 🤝 Connect With Me
 

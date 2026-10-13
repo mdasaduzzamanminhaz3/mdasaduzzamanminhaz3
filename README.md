@@ -1,44 +1,90 @@
+# Hi, I'm Md Asaduzzaman Minhaz 👋
 
-#### Python /Django Developer
+### FullStack Developer | Django(DRF) | Node.js | Express.js
 
-I'm Md Asaduzzaman Minhaz, a curious and motivated Computer Science student who loves learning new things and exploring the world of technology.
+I'm a Computer Science & Technology student from Bangladesh passionate about backend development, REST APIs, and building practical software solutions. I enjoy learning new technologies, solving problems, and turning ideas into real-world applications.
 
- Currently:
- Studying Computer Science & Engineering (CSE)
- Learning C++ with Object-Oriented Programming and Data Structures & Algorithms (DSA)
- Exploring Python and its powerful features
- Practicing HTML, CSS, JavaScript (in progress), and Bootstrap for web development
- Skills I’ve Learned:
- C++, DSA
- Python (OOP, functions, basic to intermediate concepts)
- HTML, CSS, Bootstrap
- Currently learning JavaScript
- I love:
- Learning new technologies and frameworks
+📍 **Location:** Cumilla, Bangladesh  
+📧 **Email:** [mdasaduzzamanminhaz3@gmail.com](mailto:mdasaduzzamanminhaz3@gmail.com)
 
- Solving logical problems and challenges
+---
 
- Building practical and meaningful projects
+## 🚀 About Me
 
-My Goals:
-Become a skilled software developer
+- 🔭 Building and improving projects using Python, Django, and Django REST Framework.
+- 🌱 Strengthening my knowledge of Python OOP, database optimization, and Data Structures & Algorithms.
+- 💻 Exploring modern web technologies, including React and Next.js.
+- ♻️ Working on **Eco-Track**, a waste management and recycling platform.
+- 📰 Developing **NewsIque**, an online newspaper and subscription platform.
+- 🎯 My goal is to become a skilled software engineer and contribute to meaningful software projects.
 
-Contribute to open-source projects
+---
 
-Master full-stack development in the near future
+## 🛠️ Tech Stack
 
-Skills: Bootstrap / REACT / JS / HTML / CSS/Python/Django
+### Languages
+[![Languages](https://skillicons.dev/icons?i=python,cpp,js,html,css)](https://skillicons.dev)
 
--  I’m currently learning Django 
--  I’m looking to collaborate on Github 
--  Ask me about Programming Related Problem 
+### Backend Development
+[![Backend](https://skillicons.dev/icons?i=django,fastapi,nodejs,express)](https://skillicons.dev)
 
+### Frontend Development
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap)](https://skillicons.dev)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mdasaduzzamanminhaz3)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/asaduzzaman.minhaz.7)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/a.mminhaz/)  
+### Databases & Tools
+[![Tools](https://skillicons.dev/icons?i=postgres,mysql,mongodb,git,github,postman,docker)](https://skillicons.dev)
 
+---
 
+## 🌟 Featured Projects
 
-![GitHub metrics](https://metrics.lecoq.io/mdasaduzzamanminhaz3)  
+### ♻️ Eco-Track
+An eco-friendly waste management platform that promotes recycling through pickup requests, recycler verification, green rewards, and environmental impact tracking.
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=mdasaduzzamanminhaz3)  
+- **Technologies:** Python, Django, Django REST Framework, JWT Authentication
+- **Live Demo:** [Visit Eco-Track](YOUR_ECOTRACK_LIVE_URL)
+- **Repository:** [View Source Code](https://github.com/mdasaduzzamanminhaz3/Eco_Track)
 
+### 📰 NewsIque
+An online newspaper platform featuring role-based access control, authentication, news management, and premium subscription functionality.
+
+- **Technologies:** Python, Django, Django REST Framework, PostgreSQL, Cloudinary
+- **Live Demo:** [Visit NewsIque](YOUR_NEWSIQUE_LIVE_URL)
+- **Repository:** [View Source Code](YOUR_NEWSIQUE_REPOSITORY_URL)
+
+### 🛒 PhiMart
+An e-commerce REST API project featuring product, category, cart, and order management with JWT authentication.
+
+- **Technologies:** Python, Django REST Framework, PostgreSQL, JWT
+- **Repository:** [View PhiMart](YOUR_PHIMART_REPOSITORY_URL)
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mdasaduzzamanminhaz3&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=mdasaduzzamanminhaz3&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdasaduzzamanminhaz3&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdasaduzzamanminhaz3)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/asaduzzaman.minhaz.7)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/a.mminhaz/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdasaduzzamanminhaz3@gmail.com)
+
+---
+
+<p align="center">
+  💡 <i>Keep learning, keep building, and keep improving.</i>
+</p>
